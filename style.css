@@ -4,11 +4,11 @@ color: black;
   background-color: white;
 text-align: center; }
 
-.smtb {
+#smtb {
 color: white;
 background-color: black;
   font-family: 'Inconsolata', monospace;
 }
 
-.smtb a {
+#smtb a {
   color: white; }
