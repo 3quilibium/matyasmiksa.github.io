@@ -1,9 +1,10 @@
 body {
-font-family: 'Fjalla One', sans-serif;
+font-family: 'Hind', sans-serif;
 color: black;
 background-color: white;
 text-align: centre;}
 
 div .smtb {
+font-family: 'Inconsolata', monospace;
 color: white;
-background-color: black }
+background-color: black; }
