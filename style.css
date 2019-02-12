@@ -4,7 +4,7 @@ color: black;
 background-color: white;
 text-align: center; }
 
-.smtb {
+.smtb h3, p {
 font-family: 'Inconsolata', monospace;
 color: white;
 background-color: black; }
