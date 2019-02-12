@@ -2,7 +2,7 @@ body {
 font-family: 'Hind', sans-serif;
 color: black;
 background-color: white;
-text-align: center;}
+text-align: center; }
 
 .smtb {
 font-family: 'Inconsolata', monospace;
@@ -10,4 +10,4 @@ color: white;
 background-color: black; }
 
 .smtb a {
-  color: white;}
+  color: white; }
