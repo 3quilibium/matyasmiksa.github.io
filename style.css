@@ -1,16 +1,16 @@
 body {
 font-family: 'Hind', sans-serif;
 color: black;
-background-color: white;
-text-align: center; }
+background-color: white; }
+
+#smtb-container {
+  text-align: center; }
 
 #smtb {
 color: white;
 background-color: black;
 font-family: 'Inconsolata', monospace;
-display: inline-block;
-text-align: center;
-}
+display: inline-block; }
 
 #smtb a {
   color: white; }
