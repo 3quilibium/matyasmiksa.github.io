@@ -1,13 +1,14 @@
 body {
 font-family: 'Hind', sans-serif;
 color: black;
-  background-color: white;
+background-color: white;
 text-align: center; }
 
 #smtb {
 color: white;
 background-color: black;
-  font-family: 'Inconsolata', monospace;
+font-family: 'Inconsolata', monospace;
+display: inline-block;
 }
 
 #smtb a {
