@@ -9,6 +9,7 @@ color: white;
 background-color: black;
 font-family: 'Inconsolata', monospace;
 display: inline-block;
+text-align: center;
 }
 
 #smtb a {
