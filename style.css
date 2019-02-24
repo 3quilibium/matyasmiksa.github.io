@@ -15,3 +15,15 @@ display: inline-block; }
 
 #smtb a {
   color: white; }
+
+#perep-container {
+  background: linear-gradient(90deg, rgb(0, 85, 164), rgb(239, 65, 53));
+  text-align: center; }
+
+#perep {
+  color: white;
+  font-family: 'Fira Sans Condensed', sans-serif;
+  display: inline-block; }
+
+#perep a {
+  color: white; }
