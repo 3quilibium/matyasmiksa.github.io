@@ -11,19 +11,21 @@ text-align: center;}
 color: white;
 background-color: black;
 font-family: 'Inconsolata', monospace;
-display: inline-block; }
+display: inline-block;
+padding: 10px;}
 
 #smtb a {
   color: white; }
 
 #perep-container {
-  text-align: center; width: 496px; }
+  text-align: center; }
 
 #perep {
   color: white;
   background: linear-gradient(90deg, rgb(0, 85, 164), rgb(239, 65, 53));
   font-family: 'Fira Sans Condensed', sans-serif;
-  display: inline-block; }
+  display: inline-block;
+padding: 10px;}
 
 #perep a {
   color: white; }
