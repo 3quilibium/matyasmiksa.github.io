@@ -17,7 +17,7 @@ display: inline-block; }
   color: white; }
 
 #perep-container {
-  text-align: center; }
+  text-align: center; width: 496px; }
 
 #perep {
   color: white;
