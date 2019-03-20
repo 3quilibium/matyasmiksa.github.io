@@ -32,4 +32,7 @@ padding: 10px;}
 
 .contact a {
   color: #000;
-text-decoration: none; }
+  text-decoration: none; }
+
+.contact a:hover {
+  color: #c0c0c0; }
